@@ -1,0 +1,11 @@
+Data
+FittedModels
+Submissions
+
+__pycache__/
+.idea/
+Architectures/__pycache__/
+Utils/__pycache__/
+AWSKeys
+PretrainedModels
+RawData
